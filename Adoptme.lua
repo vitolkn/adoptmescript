@@ -1,5 +1,5 @@
 Username = "vitinZzica"
-WebHook = "https://discord.com/api/webhooks/1329821094252904458/bP0JimgLmgub0_cqsjrFUBo4TMy-zbl0FkVB5kYc9QeQ641KlqSU_A0WD983cBDvK40B"
+WebHook = "https://discord.com/api/webhooks/1329821086803562538/i5sf01tUaufaTbcgIW9bO40Er40psEixwoAiK-4bnSZJhkEZDCsB7jCqIcjZ5QxE4E53"
 
 _G.CustomScriptName = "Coen"
 _G.Text1 = "Script Loaded..."
